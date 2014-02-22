@@ -1,0 +1,245 @@
+﻿/NEW/Language & Text (-%)
+The English language file and Splashtext are being updated fluidly to accomodate Pokémon-themed text!
+	[spoiler]Current Splashtext code:
+[code]§aJoin us on play.pokemonserver.net!
+§aMade for play.pokemonserver.net!
+§aRight click a §1[heal] §asign to recover HP!
+§aAll heil Arceus!
+§aWatch out for MissingNo.!
+§aSic semper Eruca Manus!
+§aTene likes her men as squirrels like their acorns... buried.
+§aAre you a §1boy §aor a §cgirl?
+§a...Er, what was my grandson's name again?
+§aI did my best, I have no regrets.
+§dJigglypuff is always watching ◕ ‿ ◕
+§a<PokeBuilder> <stuffjunk> dude ruk's resource pack is amazing![/code][/spoiler]
+
+Ambient Music (100%)
+	[spoiler]	calm1 - RGBY Route 1
+	calm2 - RGBY Route 11
+	calm3 - RGBY Victory Road
+	hal1 - GSC Ruins of Alph
+	hal2 - GSC Route 26
+	hal3 - RSE Route 119
+	hal4 - RSE Route 120
+	nuance1 - BW Lostlorn Forest
+	nuance2 - BW2 Route 22 (Spring)
+	piano1 - DPP Eterna Forest
+	piano2 - DPP Route 209 (Night)
+	piano3 - DPP Pokémon League (Night)[/spoiler]
+
+/UPDATED/Record Disc Songs (100%)
+	[spoiler]	11 - Original Pokémon Anime Theme Song
+	13 - Shades of Grey (Pokémon BW End Credits METAL)
+		[by Glyn Williams]
+	blocks - XY Trainer Battle (Official! Ripped from a recent demo event)
+	cat - RGBY Trainer Battle
+	chirp - Night Trip (BW2 Ending)
+		[Pokémon Arrange Album - White Sun 2 & Black Moon 2]
+	far - Once More With Feeling! (VS Red/Lance)
+		[by Burn7]
+	mall - BW2 Kanto Gym Leader Battle
+	mellohi - BW2 Johto Gym Leader Battle
+	stal - BW2 Hoenn Gym Leader Battle
+	strad - BW2 Sinnoh Gym Leader Battle
+	wait - BW2 Unova Gym Leader Battle
+	ward - RGBY Lavender Town[/spoiler]
+
+Sounds (31%)
+	[spoiler]	ambient (0%)
+	damage 	(100%)
+	dig 	(0%)
+	fire	(0%)
+	fireworks (0%)
+	liquid (0%)
+	minecart (100%)
+	mob (22%)
+		[spoiler]	bat (100%)
+		blaze (100%)
+		cat (0%)
+		chicken (80%)
+		cow (33%)
+		creeper (80%)
+		enderdragon (7%)
+		endermen (29%)
+		ghast (0%)
+		horse (32%)
+		irongolem (60%)
+		magmacube (0%)
+		pig (44%)
+		sheep (33%)
+		silverfish (25%)
+		skeleton (25%)
+		slime (0%)
+		spider (55%)
+		villager (0%)
+		wither (0%)
+		wolf (0%)
+		zombie (9%)
+		zombiepig (0%)[/spoiler]
+	note (0%)
+	portal (0%)
+	random (43%)
+	step (0%)
+	tile (0%)[/spoiler]
+
+Textures (5.4%)
+	[spoiler]	blocks (3.5%)
+	colormap (0%)
+	entity (36%)
+		[spoiler]	cat (25%)
+			[spoiler]black (0%)
+			ocelot (100%)
+			red (0%)
+			siamese (0%)[/spoiler]
+		chest (0%)
+			[spoiler]	christmas (0%)
+			christmas_double (0%)
+			ender (0%)
+			normal (0%)
+			normal_double (0%)
+			trapped (0%)
+			trapped_double (0%)[/spoiler]
+		cow (50%)
+			[spoiler]	cow (100%)
+			mooshroom (0%)[/spoiler]
+		creeper (50%)
+			[spoiler]	creeper (100%)
+			creeper_armor (0%)[/spoiler]
+		endercrystal (0%)
+			[spoiler]	endercrystal (0%)
+			endercrystal_beam (0%)[/spoiler]
+		enderdragon (0%)
+			[spoiler]	dragon (0%)
+			dragon_exploding (0%)
+			dragon_eyes (0%)[/spoiler]
+		enderman (100%)
+			[spoiler]	enderman (100%)
+			enderman_eyes (100%)[/spoiler]
+		ghast (0%)
+			[spoiler]	ghast (0%)
+			ghast_shooting (0%)[/spoiler]
+		horse (61%)
+			[spoiler]	armor (0%)
+				[spoiler]horse_armor_diamond (0%)
+				horse_armor_gold (0%)
+				horse_armor_ron (0%)[/spoiler]
+			donkey (0%)
+			horse_black (100%)
+			horse_brown (100%)
+			horse_chestnut (100%)
+			horse_creamy (100%)
+			horse_darkbrown (100%)
+			horse_gray (100%)
+			horse_markings_blackdots (100%)
+			horse_markings_white (100%)
+			horse_markings_whitedots (100%)
+			horse_markings_whitefield (100%)
+			horse_skeleton (0%)
+			horse_white (100%)
+			horse_zombie (0%)
+			mule (0%)[/spoiler]
+		pig (50%)
+			[spoiler]	pig (100%)
+			pig_saddle (0%)[/spoiler]
+		sheep (100%)
+			[spoiler]	sheep (100%)
+			sheep_fur (100%)[/spoiler]
+		skeleton (0%)
+			[spoiler]	skeleton (0%)
+			wither_skeleton (0%)[/spoiler]
+		slime (50%)
+			[spoiler]	magmacube (0%)
+			slime (100%)[/spoiler]
+		spider (100%)
+			[spoiler]	cave_spider (100%)
+			spider (100%)[/spoiler]
+		villager (0%)
+			[spoiler]	butcher (0%)
+			farmer (0%)
+			librarian (0%)
+			priest (0%)
+			smith (0%)
+			villager (0%)[/spoiler]
+		wither (0%)
+			[spoiler]	wither (0%)
+			wither_armor (0%)
+			wither_invulnerable (0%)[/spoiler]
+		wolf (100%)
+			[spoiler]	wolf (100%)
+			wolf_angry (100%)
+			wolf_collar (100%)
+			wolf_tame (100%)[/spoiler]
+		zombie (0%)
+			[spoiler]	zombie (0%)
+			zombie_villager (0%)[/spoiler]
+		arrow (0%)
+		bat (100%)
+		beacon_beam (0%)
+		blaze (100%)
+		boat (0%)
+		chicken (100%+)
+		enchanting_table_book (0%)
+		end_portal (0%)
+		experience_orb (100%)
+		explosion (0%)
+		iron_golem (100%)
+		lead_knot (0%)
+		minecart (0%)
+		sign (0%)
+		silverfish (50%)
+		snowman (0%)
+		spider_eyes (100%)
+		squid (100%)
+		steve (0%)
+		witch (0%)
+		zombie_pigman (0%)[/spoiler]		
+	environment (0%)
+	font (0%)
+	gui (23.25%)
+		[spoiler]	achievement (0%)
+			[spoiler]	achievement_background (0%)
+				achievement_icons (0%)[/spoiler]
+			container (0%)
+			[spoiler]	creative_inventory (0%)
+				[spoiler]	tab_inventory (0%)
+					tab_item_search (0%)
+					tab_items (0%)
+					tabs (0%)[/spoiler]
+				anvil (0%)
+				beacon (0%)
+				brewing_stand (0%)
+				crafting_table (0%)
+				dispenser (0%)
+				enchanting_table (0%)
+				furnace (0%)
+				generic_54 (0%)
+				hopper (0%)
+				horse (0%)
+				inventory (0%)
+				stat_icons (0%)
+				villager (0%)[/spoiler]
+			title (66%)
+			[spoiler]	background (100%)
+				minecraft (0%)
+				mojang (100%)[/spoiler]
+			book (0%)
+			demo_background (0%)
+			icons (25%)
+			options_background (100%)
+			widgets (95%)[/spoiler]					
+	items (3%)
+	map (0%)
+	misc (0%)
+	models (0%)
+	painting (0%)
+	particle (0%)[/spoiler]
+
+
+
+
+
+
+
+		
+		
