@@ -1,10 +1,10 @@
 
 language.name=English
 language.region=AUS
-language.code=en_Pok�mon
+language.code=en_Pokémon
 
 gui.done=Done
-gui.cancel=    Cancel
+gui.cancel=Cancel
 gui.back=Back
 gui.toMenu=Back to title screen
 gui.up=Up
@@ -20,106 +20,46 @@ translation.test.invalid2=hi %  s
 translation.test.args=%s %s
 translation.test.world=world
 
-menu.singleplayer=Single Battle
-
-menu.multiplayer=Multi Battle
-
-
-menu.online=Minecraft Realms
-
-
-menu.options=   Options...
-
-
-menu.quit=   Quit Game
-
-
-menu.returnToMenu=Save and Turn Off the Gameboy
-
-menu.disconnect=Turn Off the Gameboy
-
-
-menu.returnToGame=Back to the Battle!
-
-menu.switchingLevel=Switching regions
-
-
-menu.generatingLevel=Generating region
-
-menu.loadingLevel=Loading region
-
-
-menu.generatingTerrain=Building terrain
-
-
-menu.convertingLevel=Converting region
-
-menu.simulating=Simulating the region for a bit
-menu.respawning=Reviving
-
-menu.shareToLan=     Link Cable
-
+menu.singleplayer=§eSingle Battle
+menu.multiplayer=§cMulti Battle
+menu.online=§aMinecraft Realms
+menu.options=       §3Options...
+menu.quit=      §4Quit Game
+menu.returnToMenu=       §4Save and Turn Off the Gameboy
+menu.disconnect=§4Turn Off the Gameboy
+menu.returnToGame=      §eBack to the Battle!
+menu.switchingLevel=§7Switching regions
+menu.generatingLevel=§8Regigigas starting work
+menu.loadingLevel=§8Regigigas at work
+menu.generatingTerrain=§8Regigigas still working
+menu.convertingLevel=§8Creating Regi Trio
+menu.simulating=§8Relocating Regi Trio
+menu.respawning=§4Reviving
+menu.shareToLan=       §bLink Cable
 
 selectWorld.title=Select Region
-
 selectWorld.empty=empty
-
-
 selectWorld.world=Region
-
-
 selectWorld.select=Play Selected Region
-
-
 selectWorld.create=Create New Region
-
-
 selectWorld.recreate=        Re-Create
-
-
 selectWorld.createDemo=Play New Demo Region
-
-
 selectWorld.delete=Delete
-
-
 selectWorld.rename=Rename
-
-
 selectWorld.deleteQuestion=Are you sure you want to delete this region?
 selectWorld.deleteWarning=will be lost forever! (A long time!)
 selectWorld.deleteButton=      Delete
-
-
 selectWorld.renameButton=      Rename
-
-
 selectWorld.renameTitle=Rename Region
-
-
 selectWorld.conversion=Must be converted!
-
-
 selectWorld.newWorld=New Region
-
-
 selectWorld.newWorld.copyOf=Copy of %s
-
-
 selectWorld.enterName=Region Name
-
-
 selectWorld.resultFolder=Will be saved in:
-
-
 selectWorld.enterSeed=Seed for the Region Generator
 selectWorld.seedInfo=Leave blank for a random seed
 selectWorld.cheats=Cheats
-
-
 selectWorld.customizeType=Customize
-
-
 
 createWorld.customize.presets=Presets
 createWorld.customize.presets.title=Select a Preset
@@ -137,24 +77,12 @@ createWorld.customize.flat.layer=%d
 createWorld.customize.flat.layer.bottom=Bottom - %d
 
 gameMode.survival=Survival Mode
-
-
 gameMode.creative=Creative Mode
-
-
 gameMode.adventure=Adventure Mode
-
-
 gameMode.hardcore=Nuzlocke Mode!
-
-
 gameMode.changed=Your game mode has been updated
 
-
-
 selectWorld.gameMode=Game Mode:
-
-
 selectWorld.gameMode.survival=Survival
 selectWorld.gameMode.survival.line1=Search for resources, crafting, gain
 selectWorld.gameMode.survival.line2=levels, health and hunger
@@ -163,28 +91,18 @@ selectWorld.gameMode.creative.line1=Unlimited resources, free flying and
 selectWorld.gameMode.creative.line2=destroy blocks instantly
 selectWorld.gameMode.hardcore=Nuzlocke
 selectWorld.gameMode.hardcore.line1=Same as survival mode, locked at hardest
-
-
 selectWorld.gameMode.hardcore.line2=difficulty, and one life only
 selectWorld.gameMode.adventure=Adventure
 selectWorld.gameMode.adventure.line1=Same as survival mode, but blocks can't
-
-
 selectWorld.gameMode.adventure.line2=be added or removed
 selectWorld.moreWorldOptions=More Region Options...
 selectWorld.mapFeatures=Generate Structures:
 selectWorld.mapFeatures.info=Villages, dungeons etc
 selectWorld.mapType=Region Type:
-
-
 selectWorld.mapType.normal=Normal
-
-
 selectWorld.allowCommands=Allow Cheats:
 selectWorld.allowCommands.info=Commands like /gamemode, /xp
 selectWorld.hardcoreMode=Nuzlocke:
-
-
 selectWorld.hardcoreMode.info=World is deleted upon death
 selectWorld.bonusItems=Bonus Chest:
 
@@ -193,36 +111,17 @@ generator.flat=Superflat
 generator.largeBiomes=Large Biomes
 
 selectServer.title=Select Server
-
-
 selectServer.empty=empty
-
-
 selectServer.select=   Join Server
-
-
 selectServer.direct=     Direct Connect
-
-
 selectServer.edit=    Edit
-
-
 selectServer.delete=     Delete
-
-
 selectServer.add=   Add server
-
-
-selectServer.defaultName=Pok�mon Server
-
-
+selectServer.defaultName=PokÈmon Server
 selectServer.deleteQuestion=Are you sure you want to remove this server?
 selectServer.deleteWarning=will be lost forever! (A long time!)
 selectServer.deleteButton=     Delete
-
-
 selectServer.refresh=      Refresh
-
 
 selectServer.hiddenAddress=(Hidden)
 addServer.title=Edit Server Info
@@ -230,11 +129,12 @@ addServer.enterName=Server Name
 addServer.enterIp=Server Address
 addServer.add=Done
 addServer.hideAddress=Hide Address
-lanServer.title=LAN Region
 
+lanServer.title=LAN Region
 lanServer.scanning=Scanning for other Gameboys on the Link Cable
 lanServer.start=Start LAN Region
 lanServer.otherPlayers=Settings for Other Trainers
+
 mcoServer.title=Minecraft Online World
 
 multiplayer.title=Play Multiplayer
@@ -1112,8 +1012,8 @@ enchantment.level.8=VIII
 enchantment.level.9=IX
 enchantment.level.10=X
 
-gui.achievements=Achievements
-gui.stats=Statistics
+gui.achievements=       §aMilestones
+gui.stats=       §9Statistics
 
 stat.generalButton=General
 stat.blocksButton=Blocks

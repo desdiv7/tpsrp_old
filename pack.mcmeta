@@ -1,12 +1,12 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "ポケットモンスター"
+    "description": "PokéServer Resource Pack"
   },
   "language": {
       "en_Pokémon": {
-      "name": "\u00A7dEnglish\u00A7e",
-      "region": "\u00A7ePokémon",
+      "name": "\u00A7eEnglish\u00A7e",
+      "region": "\u00A7dPokémon",
       "bidirectional": false
      }
   }
