@@ -12,3 +12,4 @@ Contributors:
 -----------
 * Created by [Rukario-kun](http://rukario-kun.tumblr.com/)
 * Maintained by [tenebraemaximus](http://www.pokemonserver.net/forum/index.php?action=profile;u=150)
+* Forked by [1cec0ld](https://github.com/1cec0ld)
