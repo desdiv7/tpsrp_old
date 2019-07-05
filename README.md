@@ -1,6 +1,8 @@
 ThePokéServer Resource Pack
 ================
 
+This is Archived now, to be replaced by a new, optional resource pack with a focus on immersion over texture changes.
+
 >Resource Pack for [The Pokémon Server](http://www.pokemonserver.net/forum/)
 
 Submit any bugs you find [here](https://github.com/tenebraemaximus/TPS-Resource-Pack/issues).
