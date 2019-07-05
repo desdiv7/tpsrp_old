@@ -1,4 +1,4 @@
-ThePokéServer Resource Pack
+ThePokéServer Resource Pack [NOW ARCHIVED - SEE BELOW]
 ================
 
 This is Archived now, to be replaced by a new, optional resource pack with a focus on immersion over texture changes.
